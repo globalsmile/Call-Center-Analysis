@@ -39,7 +39,7 @@ Possible KPIs include(but not limited to):
 
 The Dataset used for this analysis was presented by [Pwc Switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and available at:
 
-- [Call Center Dataset]https://github.com/globalsmile/Call-Center-Analysis/blob/main/01%20Call-Center-Dataset.xlsx)
+- [Call Center Dataset](https://github.com/globalsmile/Call-Center-Analysis/blob/main/01%20Call-Center-Dataset.xlsx)
 
 
 ---
@@ -119,8 +119,8 @@ Figure 1 shows visualizations from `Call Center Manager` page
 
 Measures used in visualization are:
 
-- # of answered = `Calculate(distinctcount('Call Center'[Call Id]),Filter('Call Center','Call Center'[Answered (Y/N)]="Y"))`
-- # of resolved = `Calculate(distinctcount('Call Center'[Call Id]),Filter('Call Center','Call Center'[Resolved]="Y"))`
+- '#' of answered = `Calculate(distinctcount('Call Center'[Call Id]),Filter('Call Center','Call Center'[Answered (Y/N)]="Y"))`
+- '#' of resolved = `Calculate(distinctcount('Call Center'[Call Id]),Filter('Call Center','Call Center'[Resolved]="Y"))`
 - Average satisfaction rating = `Average('Call Center'[Satisfaction rating])`
 - Average Speed of answer = `Average('Call Center'[Average Speed of anser in seconds])`
 - Target Value Satisfaction = `4.5`
@@ -136,7 +136,7 @@ As shown from [Data Visualization](https://github.com/globalsmile/Call-Center-An
 
 # Insights
 
-As shown by [Data Visualization](https://github.com/globalsmile/Twitter-Sentiment-Analysis#Data-Visualization), It can be deduced that:
+As shown by [Data Visualization](https://github.com/globalsmile/Call-Center-Analysis#Data-Visualization), It can be deduced that:
 
 - In January a total of `1455` calls were answered, whereas `317` calls were not answered 
 - In February a total of `1298` calls were answered, whereas `318` calls were not answered 
@@ -147,6 +147,6 @@ As shown by [Data Visualization](https://github.com/globalsmile/Twitter-Sentimen
 
 # Shareable Link
 
-You can interact with the report here: 
+You can interact with the dashboard here: 
 
-[Report](https://app.powerbi.com/view?r=eyJrIjoiZjMzMjk1ZDAtYzBjYy00OTZjLTk1YzQtMzI1MjE0NWFkOGYxIiwidCI6IjQ5ODY4YWYzLWNjNWYtNDIxNC04YjdmLTQwZjM3NDY0OWEwOSJ9)
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTZlMGFiMjQtYmZiNi00OTdiLWI0MTEtNzE1YmVhMWFkZjdhIiwidCI6IjQ5ODY4YWYzLWNjNWYtNDIxNC04YjdmLTQwZjM3NDY0OWEwOSJ9)

@@ -1,5 +1,5 @@
 # Pwc Switzerland Power BI virtual case experience - Call Center Analysis
-<img align="right" alt="Twitter Sentiment Analysis" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/187567112-ec593f73-7afe-4ef3-8c80-822591b89038.png">
+<img align="right" alt="Call Center Analysis" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/187567112-ec593f73-7afe-4ef3-8c80-822591b89038.png">
 
 ---
 
@@ -20,7 +20,7 @@
 
 # Problem Statement
 
-INTRO :This project is one of three projects from the PWC SWITZERLAND POWER BI VIRTUAL CASE EXPERIENCE INTERNSHIP PROGRAM on Forage.
+INTRO :This project is one of three projects from the [Pwc Switzerland Power BI virtual case experience internship program](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Digital-Up-skilling-Virtual-Case-Experience) on Forage.
 
 The purpose of this analysis is to create create a dashboard for the call center manager that reflects all relevant Key Performance indicators(KPIs)
 and metrics in the dataset.

@@ -37,9 +37,9 @@ Possible KPIs include(but not limited to):
 
 # Data Sourcing
 
-- The dataset used for this analysis was scrapped from twitter using python and jupyter notebook
-- The preview of the dataset and python code is shown below:
+The Dataset used for this analysis was presented by [Pwc Switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html) and available at:
 
+- [Client Finance Data](https://github.com/globalsmile/Client-Financial-Analysis/blob/main/Client%20Financial%20Data.xlsx)
 
 ```python
 !pip install snscrape

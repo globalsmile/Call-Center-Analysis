@@ -20,7 +20,7 @@
 
 # Problem Statement
 
-INTRO :This project is one of three projects from the [Pwc Switzerland Power BI virtual case experience internship program](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Digital-Up-skilling-Virtual-Case-Experience) on Forage.
+INTRO :This project is one of three projects from the [Pwc Switzerland Power BI virtual case experience internship program](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Digital-Up-skilling-Virtual-Case-Experience) which I completed on Forage.
 
 The purpose of this analysis is to create create a dashboard for the call center manager that reflects all relevant Key Performance indicators(KPIs)
 and metrics in the dataset.

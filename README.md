@@ -91,12 +91,13 @@ After the dataset was cleaned and transformed, it was ready to be modeled.
 
 - The `Calender` table was marked as the official date table in the dataset.
 - A one-to-many (*:1) relationship was created between the `Call Center` and the `Calender` tables using the date column in each of the tables
-- The realtioship formed in the data model is shown below:
+- The realtionship formed in the data model is shown below:
 
-<img align="right" alt="Data Model" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/187106255-bd25a422-fd74-4f5e-a529-7a9052915252.png">
+<img align="right" alt="Data Model" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/194927322-0f77b471-6103-49ba-835a-78bf5645c37e.JPG">
 
 
 ---
+
 
 # Data Visualization
 

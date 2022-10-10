@@ -110,7 +110,7 @@ Figure 1 shows visualizations from `Call Center Manager` page
 
 | Figure 1 |
 | ----------- |
-| ![image](https://user-images.githubusercontent.com/106287208/187567316-46bc6332-7507-4f11-b3c7-a18a52ed8e14.png) |
+| ![image](https://user-images.githubusercontent.com/106287208/194927933-88583e29-b8f7-414a-af66-ca84f27f66ba.png) |
 
 
 ---

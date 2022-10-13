@@ -149,4 +149,4 @@ As shown by [Data Visualization](https://github.com/globalsmile/Call-Center-Anal
 
 You can interact with the dashboard here: 
 
-[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTZlMGFiMjQtYmZiNi00OTdiLWI0MTEtNzE1YmVhMWFkZjdhIiwidCI6IjQ5ODY4YWYzLWNjNWYtNDIxNC04YjdmLTQwZjM3NDY0OWEwOSJ9)
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTZlMGFiMjQtYmZiNi00OTdiLWI0MTEtNzE1YmVhMWFkZjdhIiwidCI6IjQ5ODY4YWYzLWNjNWYtNDIxNC04YjdmLTQwZjM3NDY0OWEwOSJ9)

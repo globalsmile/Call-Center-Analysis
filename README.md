@@ -20,14 +20,12 @@
 
 # Problem Statement
 
-INTRO :This project is one of three projects from the [Pwc Switzerland Power BI virtual case experience internship program](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Digital-Up-skilling-Virtual-Case-Experience) which I completed on Forage.
-
 The purpose of this analysis is to create create a dashboard for the call center manager that reflects all relevant Key Performance indicators(KPIs)
 and metrics in the dataset.
 
 Possible KPIs include(but not limited to):
 - Overall customer satisfaction
-- Overall calls answered/abadoned
+- Overall calls answered/abandoned
 - Calls by time
 - Average speed of answer
 - Agents performance quadrant -> average handle time(talk duration) vs calls answered

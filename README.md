@@ -46,7 +46,7 @@ The Dataset used for this analysis was presented by [Pwc Switzerland](https://ww
 
 Data transformation was done in Power Query and the dataset was loaded into Microsoft Power BI Desktop for modeling.
 
-The call center dataset is contained in a table named:
+The call center dataset is given by a table named:
 
 - `Call Center` which has `10 columns and 5000 rows` of observation
 

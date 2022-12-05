@@ -127,8 +127,8 @@ Measures used in visualization are:
 As shown from [Data Visualization](https://github.com/globalsmile/Call-Center-Analysis#Data-Visualization), It can be deduced that:
 
 - The average satisfation rating is `3.40` 
-- `81.08%` of total calls were answered and `18.92%' of total calls were not answered
-- `72.92%` of total calls were resolved and `127.08%' of total calls were not resolved
+- `81.08%` of total calls were answered and `18.92%` of total calls were not answered
+- `72.92%` of total calls were resolved and `127.08%` of total calls were not resolved
 
 ---
 

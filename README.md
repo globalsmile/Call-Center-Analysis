@@ -20,7 +20,7 @@
 
 # Problem Statement
 
-The purpose of this analysis is to create create a dashboard for the call center manager that reflects all relevant Key Performance indicators(KPIs)
+The purpose of this analysis is to create a dashboard for the call center manager that reflects all relevant Key Performance indicators(KPIs)
 and metrics in the dataset.
 
 Possible KPIs include(but not limited to):

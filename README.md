@@ -1,5 +1,5 @@
 # Pwc Switzerland Power BI virtual case experience - Call Center Analysis
-<img align="right" alt="Call Center Analysis" width="1000" height = "400" src="https://www.pwc.ch/en/images/blog/virtual-case-experience/HC_Virtual%20Case%20Experience_1000x560_NWNS-Power%20BI.png">
+<img align="right" alt="Call Center Analysis" width="1000" height = "500" src="https://user-images.githubusercontent.com/106287208/194927933-88583e29-b8f7-414a-af66-ca84f27f66ba.png">
 
 ---
 
